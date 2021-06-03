@@ -1,0 +1,50 @@
+.primeirap {
+        display: flex;     
+        text-align: center;
+        font: normal 15px Arial;
+}
+.af {
+        display: flex;
+        position: relative;
+        text-align: justify;
+        top: 40px;
+        padding: 50px 18px;
+        
+}
+.segundorap {
+        display: flex;
+        padding: 70px 10px;
+        
+}
+.itemtexto {
+        display: flex;
+        text-align: center;
+        font: normal 14px Arial;
+}
+.partInf{
+        display: flex;
+        flex-direction: column;
+        width: 97%;
+        background-color: black;
+        padding: 30px 20px;
+        height: 300px;
+}
+.fab {
+        display: flex;
+        flex-direction: column;
+        align-content: flex-start;
+        justify-content: flex-start;
+        color:aliceblue;
+}
+.Siat{
+        color: red;    
+        left: 15px;    
+}
+footer a{
+        display: flex;
+        margin-bottom: 20px;
+        color: blue;
+}
+footer a i{
+        margin-right: 10px;
+}
